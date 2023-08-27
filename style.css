@@ -20,6 +20,8 @@ body {
     min-height: 100vh;
     background-image: linear-gradient(to left bottom, #181313, #4e4e40);
     gap: 20px;
+
+padding: 15px 0;
 }
 
 .left_cont {
